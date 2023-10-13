@@ -6,7 +6,7 @@ description: # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: Rakshith.jpeg 
+  image: Rakshith.jpg 
   address: >
     <p>Office: 2305 ICSRL</p>
     <p>KACB, 266 Ferst Dr NW</p>
